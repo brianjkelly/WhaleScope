@@ -5,4 +5,4 @@ from .models import Sighting, Comment, Reply
 admin.site.register(Sighting)
 admin.site.register(Comment)
 admin.site.register(Reply)
-
+admin.site.register(Photo)
